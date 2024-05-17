@@ -36,4 +36,14 @@ Starting Date : 17th May 2024
     <td>04</td>
     <td>Numpy - np.arange(), array_name.reshape() and np.eye()</td>
   </tr>
+  <tr>
+    <td>2024-05-17</td>
+    <td>04</td>
+    <td>Numpy - np.random.rand(), np.random.randn() and np.sqrt()</td>
+  </tr>
+  <tr>
+    <td>2024-05-17</td>
+    <td>04</td>
+    <td>Numpy - np.nditer(), np.linspace() and np.random.choice()</td>
+  </tr>
 </table>
