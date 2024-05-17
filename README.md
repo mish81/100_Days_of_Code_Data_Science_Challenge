@@ -31,4 +31,9 @@ Starting Date : 17th May 2024
     <td>03</td>
     <td>Numpy - np.greater(), np.zeros(), np.ones() and np.full()</td>
   </tr>
+  <tr>
+    <td>2024-05-17</td>
+    <td>04</td>
+    <td>Numpy - np.arange(), array_name.reshape() and np.eye()</td>
+  </tr>
 </table>
