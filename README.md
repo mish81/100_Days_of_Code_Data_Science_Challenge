@@ -10,12 +10,25 @@ Starting Date : 17th May 2024
     <th>Date</th>
     <th>Day</th>
     <th>Topic Covered</th>
-    <th>Exercise</th>
+  </tr>
+  <tr>
+    <td>2024-05-17</td>
+    <td>00</td>
+    <td>Python version Check</td>
   </tr>
   <tr>
     <td>2024-05-17</td>
     <td>01</td>
-    <td></td>
-    <td></td>
+    <td>Numpy - np.all() & np.any()</td>
+  </tr>
+  <tr>
+    <td>2024-05-17</td>
+    <td>02</td>
+    <td>Numpy - np.isnan(), np.allclose() & np.equal()</td>
+  </tr>
+  <tr>
+    <td>2024-05-17</td>
+    <td>03</td>
+    <td>Numpy - np.greater(), np.zeros(), np.ones() and np.full()</td>
   </tr>
 </table>
