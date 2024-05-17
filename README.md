@@ -46,4 +46,9 @@ Starting Date : 17th May 2024
     <td>04</td>
     <td>Numpy - np.nditer(), np.linspace() and np.random.choice()</td>
   </tr>
+  <tr>
+    <td>2024-05-17</td>
+    <td>04</td>
+    <td>Numpy - np.diag(), np.save(), np.load(), np.savetxt() and np.loadtxt()</td>
+  </tr>  
 </table>
