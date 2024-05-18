@@ -62,14 +62,14 @@ Starting Date : 17th May 2024
     <td>Numpy - np.zeros(), np.append() and np.intersect1d()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2024-05-18</td>
+    <td>10</td>
+    <td>Numpy - np.unique(), np.argmax() and np.sort()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2024-05-18</td>
+    <td>11</td>
+    <td>Numpy - np.where(), np.ravel and np.zeros_like()</td>
   </tr>
   <tr>
     <td></td>
