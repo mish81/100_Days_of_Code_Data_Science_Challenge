@@ -72,9 +72,9 @@ Starting Date : 17th May 2024
     <td>Numpy - np.where(), np.ravel and np.zeros_like()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2024-05-19</td>
+    <td>12</td>
+    <td>Numpy - np.full_like(), np.tri() and np.random.randint()</td>
   </tr>
   <tr>
     <td></td>
