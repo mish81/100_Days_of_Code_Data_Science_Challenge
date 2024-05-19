@@ -7,114 +7,114 @@ Starting Date : 17th May 2024
 <br><br><br>
 <table>
   <tr>
-    <th>Date</th>
     <th>Day</th>
+    <th>Date Completed</th>
     <th>Topic Covered</th>
   </tr>
   <tr>
-    <td>2024-05-17</td>
     <td>00</td>
+    <td>2024-05-17</td>
     <td>Python version Check</td>
   </tr>
   <tr>
-    <td>2024-05-17</td>
     <td>01</td>
+    <td>2024-05-17</td>
     <td>Numpy - np.all() & np.any()</td>
   </tr>
   <tr>
-    <td>2024-05-17</td>
     <td>02</td>
+    <td>2024-05-17</td>
     <td>Numpy - np.isnan(), np.allclose() & np.equal()</td>
   </tr>
   <tr>
-    <td>2024-05-17</td>
     <td>03</td>
+    <td>2024-05-17</td>
     <td>Numpy - np.greater(), np.zeros(), np.ones() and np.full()</td>
   </tr>
   <tr>
-    <td>2024-05-17</td>
     <td>04</td>
+    <td>2024-05-17</td>
     <td>Numpy - np.arange(), array_name.reshape() and np.eye()</td>
   </tr>
   <tr>
-    <td>2024-05-17</td>
     <td>05</td>
+    <td>2024-05-17</td>
     <td>Numpy - np.random.rand(), np.random.randn() and np.sqrt()</td>
   </tr>
   <tr>
-    <td>2024-05-17</td>
     <td>06</td>
+    <td>2024-05-17</td>
     <td>Numpy - np.nditer(), np.linspace() and np.random.choice()</td>
   </tr>
   <tr>
-    <td>2024-05-17</td>
     <td>07</td>
+    <td>2024-05-17</td>
     <td>Numpy - np.diag(), np.save(), np.load(), np.savetxt() and np.loadtxt()</td>
   </tr>
   <tr>
-    <td>2024-05-18</td>
     <td>08</td>
+    <td>2024-05-18</td>
     <td>Numpy - np.reshape(), np.tolist() and np.pad()</td>
   </tr>  
   <tr>
-    <td>2024-05-18</td>
     <td>09</td>
+    <td>2024-05-18</td>
     <td>Numpy - np.zeros(), np.append() and np.intersect1d()</td>
   </tr>
   <tr>
-    <td>2024-05-18</td>
     <td>10</td>
+    <td>2024-05-18</td>
     <td>Numpy - np.unique(), np.argmax() and np.sort()</td>
   </tr>
   <tr>
-    <td>2024-05-18</td>
     <td>11</td>
+    <td>2024-05-18</td>
     <td>Numpy - np.where(), np.ravel and np.zeros_like()</td>
   </tr>
   <tr>
-    <td>2024-05-19</td>
     <td>12</td>
+    <td>2024-05-19</td>
     <td>Numpy - np.full_like(), np.tri() and np.random.randint()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>13</td>
+    <td>2024-05-19</td>
+    <td>Numpy - np.sort() and np.expand_dims()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>14</td>
+    <td>2024-05-19</td>
+    <td>Numpy - np.append() and np.squeeze()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>15</td>
+    <td>2024-05-19</td>
+    <td>Numpy - Array Slicing</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>16</td>
+    <td>2024-05-19</td>
+    <td>Numpy - np.concatenate() and np.column_stack()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>17</td>
+    <td>2024-05-19</td>
+    <td>Numpy - np.split(), np.count_nonzero() and np.set_printoptions()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>18</td>
+    <td>2024-05-19</td>
+    <td>Numpy - np.delete() and np.linalg.norm()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>19</td>
+    <td>2024-05-19</td>
+    <td>Numpy - np.divide(), np.multiply() and np.sqrt()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>20</td>
+    <td>2024-05-19</td>
+    <td>Numpy - np.allclose(), np.dot() and np.linalg.det()</td>
   </tr>
   <tr>
     <td></td>
