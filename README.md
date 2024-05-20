@@ -98,48 +98,48 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>17</td>
-    <td>2024-05-19</td>
+    <td>2024-05-20</td>
     <td>Numpy - np.split(), np.count_nonzero() and np.set_printoptions()</td>
   </tr>
   <tr>
     <td>18</td>
-    <td>2024-05-19</td>
+    <td>2024-05-20</td>
     <td>Numpy - np.delete() and np.linalg.norm()</td>
   </tr>
   <tr>
     <td>19</td>
-    <td>2024-05-19</td>
+    <td>2024-05-20</td>
     <td>Numpy - np.divide(), np.multiply() and np.sqrt()</td>
   </tr>
   <tr>
     <td>20</td>
-    <td>2024-05-19</td>
+    <td>2024-05-20</td>
     <td>Numpy - np.allclose(), np.dot() and np.linalg.det()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>21</td>
+    <td>2024-05-20</td>
+    <td>Numpy - np.linalg.eig(), np.linalg.inv() and np.trace()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>22</td>
+    <td>2024-05-20</td>
+    <td>Numpy - np.random.shuffle(), np.argsort(), np.round() and np.roots()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>23</td>
+    <td>2024-05-20</td>
+    <td>Numpy - np.roots(), np.polyadd() and np.sign()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>24</td>
+    <td>2024-05-20</td>
+    <td>Numpy - Dates</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>25</td>
+    <td>2024-05-20</td>
+    <td>Numpy - np.char.add(), np.char.rjust(), np.char.zfill() and np.char.split()</td>
   </tr>
   <tr>
     <td></td>
