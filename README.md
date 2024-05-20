@@ -153,43 +153,43 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>28</td>
-    <td>2024-05-20</td>
+    <td>2024-05-21</td>
     <td>Numpy - np.char.replace, np.delete(), np.savetxt() and np.loadtxt()</td>
   </tr>
   <tr>
     <td>29</td>
-    <td>2024-05-20</td>
+    <td>2024-05-21</td>
     <td>Numpy - Data Preporcessing</td>
   </tr>
   <tr>
     <td>30</td>
-    <td>2024-05-20</td>
+    <td>2024-05-21</td>
     <td>Numpy - Data Analysis</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>31</td>
+    <td>2024-05-21</td>
+    <td>Pandas - pd.Series()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>32</td>
+    <td>2024-05-21</td>
+    <td>Pandas - pd.Series() and pd.DataFrame()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>33</td>
+    <td>2024-05-21</td>
+    <td>Pandas - pd.DataFrame()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>34</td>
+    <td>2024-05-21</td>
+    <td>Pandas - pd.DataFrame() and pd.data_range()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>35</td>
+    <td>2024-05-21</td>
+    <td>Pandas - pd.DataFrame() and pd.data_range()</td>
   </tr>
   <tr>
     <td></td>
