@@ -142,9 +142,29 @@ Starting Date : 17th May 2024
     <td>Numpy - np.char.add(), np.char.rjust(), np.char.zfill() and np.char.split()</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>26</td>
+    <td>2024-05-20</td>
+    <td>Numpy - np.char.strip(), np.char.replace() and np.char.count()</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>2024-05-20</td>
+    <td>Numpy - np.char.replace() and np.char.startswith()</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>2024-05-20</td>
+    <td>Numpy - np.char.replace, np.delete(), np.savetxt() and np.loadtxt()</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>2024-05-20</td>
+    <td>Numpy - Data Preporcessing</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>2024-05-20</td>
+    <td>Numpy - Data Analysis</td>
   </tr>
   <tr>
     <td></td>
