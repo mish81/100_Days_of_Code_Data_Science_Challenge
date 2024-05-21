@@ -213,7 +213,7 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>40</td>
-    <td>2024-05-21</td>
+    <td></td>
     <td>Pandas - pd.DataFrame.set_index() and pd.DataFrame.drop()</td>
   </tr>
   <tr>
