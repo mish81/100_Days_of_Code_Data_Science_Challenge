@@ -193,27 +193,27 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>36</td>
-    <td></td>
+    <td>2024-05-21</td>
     <td>Pandas - pd.DataFrame() and pd.date_range()</td>
   </tr>
   <tr>
     <td>37</td>
-    <td></td>
+    <td>2024-05-21</td>
     <td>Pandas - pd.DataFrame.to_csv() and pd.read_csv()</td>
   </tr>
   <tr>
     <td>38</td>
-    <td></td>
+    <td>2024-05-21</td>
     <td>Pandas - pd.read_csv()</td>
   </tr>
   <tr>
     <td>39</td>
-    <td></td>
+    <td>2024-05-21</td>
     <td>Pandas - pd.DataFrame.groupby() and pd.DataFrame.iloc()</td>
   </tr>
   <tr>
     <td>40</td>
-    <td></td>
+    <td>2024-05-21</td>
     <td>Pandas - pd.DataFrame.set_index() and pd.DataFrame.drop()</td>
   </tr>
   <tr>
