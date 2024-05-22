@@ -238,12 +238,12 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>45</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Mapping and Clipping</td>
   </tr>
   <tr>
     <td>46</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Concatenating and Querying</td>
   </tr>
   <tr>
