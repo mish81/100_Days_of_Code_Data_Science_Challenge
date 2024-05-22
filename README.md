@@ -268,13 +268,13 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>51</td>
-    <td></td>
-    <td></td>
+    <td>2024-05-22</td>
+    <td>Pandas - Data Preprocessing</td>
   </tr>
   <tr>
     <td>52</td>
-    <td></td>
-    <td></td>
+    <td>2024-05-22</td>
+    <td>Pandas - Data Preprocessing</td>
   </tr>
   <tr>
     <td>53</td>
