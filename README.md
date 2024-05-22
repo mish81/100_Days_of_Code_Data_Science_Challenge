@@ -213,27 +213,27 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>40</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - pd.DataFrame.set_index() and pd.DataFrame.drop()</td>
   </tr>
   <tr>
     <td>41</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Data Preprocessing</td>
   </tr>
   <tr>
     <td>42</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Data Preprocessing and Data Types</td>
   </tr>
   <tr>
     <td>43</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Grouping and Mapping</td>
   </tr>
   <tr>
     <td>44</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Concatenating and Exporting</td>
   </tr>
   <tr>
