@@ -248,22 +248,22 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>47</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Filtering and Exporting</td>
   </tr>
   <tr>
     <td>48</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Filtering and Missing Values</td>
   </tr>
   <tr>
     <td>49</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Missing Values</td>
   </tr>
   <tr>
     <td>50</td>
-    <td></td>
+    <td>2024-05-22</td>
     <td>Pandas - Missing Values and Random</td>
   </tr>
   <tr>
