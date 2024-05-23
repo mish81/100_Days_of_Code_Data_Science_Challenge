@@ -320,22 +320,22 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>61</td>
-    <td></td>
+    <td>2024-05-23</td>
     <td>Categorical Data</td>
   </tr>
   <tr>
     <td>62</td>
-    <td></td>
+    <td>2024-05-23</td>
     <td>Categorical Data and Dummy Variables</td>
   </tr>
   <tr>
     <td>63</td>
-    <td></td>
+    <td>2024-05-23</td>
     <td>Data Analysis</td>
   </tr>
   <tr>
     <td>64</td>
-    <td></td>
+    <td>2024-05-23</td>
     <td>Data Preprocessing</td>
   </tr>
   <tr>
