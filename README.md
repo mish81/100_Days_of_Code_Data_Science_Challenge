@@ -278,143 +278,143 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>53</td>
-    <td></td>
-    <td></td>
+    <td>2024-05-23</td>
+    <td>Pandas - Data Preprocessing</td>
   </tr>
   <tr>
     <td>54</td>
-    <td></td>
-    <td></td>
+    <td>2024-05-23</td>
+    <td>Pandas - Grouping and Mapping</td>
   </tr>
   <tr>
     <td>55</td>
-    <td></td>
-    <td></td>
+    <td>2024-05-23</td>
+    <td>Pandas - Data Exploring</td>
   </tr>
   <tr>
     <td>56</td>
-    <td></td>
-    <td></td>
+    <td>2024-05-23</td>
+    <td>Pandas - Data Preprocessing</td>
   </tr>
   <tr>
     <td>57</td>
-    <td></td>
-    <td></td>
+    <td>2024-05-23</td>
+    <td>Pandas - Grouping and Mapping</td>
   </tr>
   <tr>
     <td>58</td>
     <td></td>
-    <td></td>
+    <td>Querying</td>
   </tr>
   <tr>
     <td>59</td>
     <td></td>
-    <td></td>
+    <td>Duplicated Data and Data Types</td>
   </tr>
   <tr>
     <td>60</td>
     <td></td>
-    <td></td>
+    <td>Data Types</td>
   </tr>
   <tr>
     <td>61</td>
     <td></td>
-    <td></td>
+    <td>Categorical Data</td>
   </tr>
   <tr>
     <td>62</td>
     <td></td>
-    <td></td>
+    <td>Categorical Data and Dummy Variables</td>
   </tr>
   <tr>
     <td>63</td>
     <td></td>
-    <td></td>
+    <td>Data Analysis</td>
   </tr>
   <tr>
     <td>64</td>
     <td></td>
-    <td></td>
+    <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>65</td>
     <td></td>
-    <td></td>
+    <td>JSON Files</td>
   </tr>
   <tr>
     <td>66</td>
     <td></td>
-    <td></td>
+    <td>JSON Files</td>
   </tr>
   <tr>
     <td>67</td>
     <td></td>
-    <td></td>
+    <td>CSV Files</td>
   </tr>
   <tr>
     <td>68</td>
     <td></td>
-    <td></td>
+    <td>Data Processing</td>
   </tr>
   <tr>
     <td>69</td>
     <td></td>
-    <td></td>
+    <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>70</td>
     <td></td>
-    <td></td>
+    <td>Merging</td>
   </tr>
   <tr>
     <td>71</td>
     <td></td>
-    <td></td>
+    <td>Merging</td>
   </tr>
   <tr>
     <td>72</td>
     <td></td>
-    <td></td>
+    <td>Merging</td>
   </tr>
   <tr>
     <td>73</td>
     <td></td>
-    <td></td>
+    <td>Pivot Tables</td>
   </tr>
   <tr>
     <td>74</td>
     <td></td>
-    <td></td>
+    <td>Imputing Missing Values</td>
   </tr>
   <tr>
     <td>75</td>
     <td></td>
-    <td></td>
+    <td>Imputing Missing Values</td>
   </tr>
   <tr>
     <td>76</td>
     <td></td>
-    <td></td>
+    <td>Continuous to Categorical Values</td>
   </tr>
   <tr>
     <td>77</td>
     <td></td>
-    <td></td>
+    <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>78</td>
     <td></td>
-    <td></td>
+    <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>79</td>
     <td></td>
-    <td></td>
+    <td>Data Exploring</td>
   </tr>
   <tr>
     <td>80</td>
     <td></td>
-    <td></td>
+    <td>Train Test Split, Logistic Regressing and Prediction</td>
   </tr>
   <tr>
     <td>81</td>
