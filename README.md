@@ -5,6 +5,8 @@ Creator : Shivam Mishra | LinkedIn Profile : https://www.linkedin.com/in/shivam2
 <br>
 Starting Date : 17th May 2024
 <br><br><br>
+
+## Glossary/Index of topics covered
 <table>
   <tr>
     <th>Day</th>
@@ -308,12 +310,12 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>59</td>
-    <td></td>
+    <td>2024-05-23</td>
     <td>Duplicated Data and Data Types</td>
   </tr>
   <tr>
     <td>60</td>
-    <td></td>
+    <td>2024-05-23</td>
     <td>Data Types</td>
   </tr>
   <tr>
