@@ -303,7 +303,7 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>58</td>
-    <td></td>
+    <td>2024-05-23</td>
     <td>Querying</td>
   </tr>
   <tr>
