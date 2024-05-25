@@ -380,7 +380,7 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>73</td>
-    <td></td>
+    <td>2024-05-25</td>
     <td>Pivot Tables</td>
   </tr>
   <tr>
