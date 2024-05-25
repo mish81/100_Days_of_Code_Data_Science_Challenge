@@ -385,37 +385,37 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>74</td>
-    <td></td>
+    <td>2024-05-26</td>
     <td>Imputing Missing Values</td>
   </tr>
   <tr>
     <td>75</td>
-    <td></td>
+    <td>2024-05-26</td>
     <td>Imputing Missing Values</td>
   </tr>
   <tr>
     <td>76</td>
-    <td></td>
+    <td>2024-05-26</td>
     <td>Continuous to Categorical Values</td>
   </tr>
   <tr>
     <td>77</td>
-    <td></td>
+    <td>2024-05-26</td>
     <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>78</td>
-    <td></td>
+    <td>2024-05-26</td>
     <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>79</td>
-    <td></td>
+    <td>2024-05-26</td>
     <td>Data Exploring</td>
   </tr>
   <tr>
     <td>80</td>
-    <td></td>
+    <td>2024-05-26</td>
     <td>Train Test Split, Logistic Regressing and Prediction</td>
   </tr>
   <tr>
