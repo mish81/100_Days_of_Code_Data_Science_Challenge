@@ -420,12 +420,12 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>81</td>
-    <td></td>
+    <td>2024-05-27</td>
     <td>LabelEncoder and OneHotEncoder</td>
   </tr>
   <tr>
     <td>82</td>
-    <td></td>
+    <td>2024-05-27</td>
     <td>Data Preprocessing</td>
   </tr>
   <tr>
