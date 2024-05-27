@@ -421,101 +421,101 @@ Starting Date : 17th May 2024
   <tr>
     <td>81</td>
     <td></td>
-    <td></td>
+    <td>LabelEncoder and OneHotEncoder</td>
   </tr>
   <tr>
     <td>82</td>
     <td></td>
-    <td></td>
+    <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>83</td>
     <td></td>
-    <td></td>
+    <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>84</td>
     <td></td>
-    <td></td>
+    <td>Linear Regression and Polynomial Features</td>
   </tr>
   <tr>
     <td>85</td>
     <td></td>
-    <td></td>
+    <td>Metrics</td>
   </tr>
   <tr>
     <td>86</td>
     <td></td>
-    <td></td>
+    <td>Standard Scalar and Entropy</td>
   </tr>
   <tr>
     <td>87</td>
     <td></td>
-    <td></td>
+    <td>Accuracy, Confusion Matrix and Decision Tree</td>
   </tr>
   <tr>
     <td>88</td>
     <td></td>
-    <td></td>
+    <td>Decision Tree and Grid Search</td>
   </tr>
   <tr>
     <td>89</td>
     <td></td>
-    <td></td>
+    <td>Random Forest, Grid Search and CountVectorizer</td>
   </tr>
   <tr>
     <td>90</td>
     <td></td>
-    <td></td>
+    <td>CountVectorizer and TfidVectorizer</td>
   </tr>
   <tr>
     <td>91</td>
     <td></td>
-    <td></td>
+    <td>KMeans, Agglomerative Clustering and DBSCAN</td>
   </tr>
   <tr>
     <td>92</td>
     <td></td>
-    <td></td>
+    <td>PCA</td>
   </tr>
   <tr>
     <td>93</td>
     <td></td>
-    <td></td>
+    <td>LocalOutlierFactor and IsolationFactor</td>
   </tr>
   <tr>
     <td>94</td>
     <td></td>
-    <td></td>
+    <td>KNeighborsClassifier and LogisticRegression</td>
   </tr>
   <tr>
     <td>95</td>
     <td></td>
-    <td></td>
+    <td>Association Rules</td>
   </tr>
   <tr>
     <td>96</td>
     <td></td>
-    <td></td>
+    <td>CountVectorizer</td>
   </tr>
   <tr>
     <td>97</td>
     <td></td>
-    <td></td>
+    <td>Classification and MultinomialDB</td>
   </tr>
   <tr>
     <td>98</td>
     <td></td>
-    <td></td>
+    <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>99</td>
     <td></td>
-    <td></td>
+    <td>Linear Regression and R^2 Score</td>
   </tr>
   <tr>
     <td>100</td>
     <td></td>
-    <td></td>
+    <td>Linear Regression and Gradient Boosting Regressor</td>
   </tr>
 </table>
