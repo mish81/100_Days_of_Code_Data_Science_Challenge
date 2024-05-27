@@ -405,17 +405,17 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>78</td>
-    <td>2024-05-26</td>
+    <td>2024-05-27</td>
     <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>79</td>
-    <td>2024-05-26</td>
+    <td>2024-05-27</td>
     <td>Data Exploring</td>
   </tr>
   <tr>
     <td>80</td>
-    <td>2024-05-26</td>
+    <td>2024-05-27</td>
     <td>Train Test Split, Logistic Regressing and Prediction</td>
   </tr>
   <tr>
