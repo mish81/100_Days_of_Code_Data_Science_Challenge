@@ -430,17 +430,17 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>83</td>
-    <td></td>
+    <td>2024-05-28</td>
     <td>Data Preprocessing</td>
   </tr>
   <tr>
     <td>84</td>
-    <td></td>
+    <td>2024-06-04</td>
     <td>Linear Regression and Polynomial Features</td>
   </tr>
   <tr>
     <td>85</td>
-    <td></td>
+    <td>2024-06-04</td>
     <td>Metrics</td>
   </tr>
   <tr>
