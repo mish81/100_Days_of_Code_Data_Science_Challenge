@@ -445,7 +445,7 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>86</td>
-    <td></td>
+    <td>2024-06-04</td>
     <td>Standard Scalar and Entropy</td>
   </tr>
   <tr>
