@@ -450,12 +450,12 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>87</td>
-    <td></td>
+    <td>2024-06-05</td>
     <td>Accuracy, Confusion Matrix and Decision Tree</td>
   </tr>
   <tr>
     <td>88</td>
-    <td></td>
+    <td>2024-06-05</td>
     <td>Decision Tree and Grid Search</td>
   </tr>
   <tr>
