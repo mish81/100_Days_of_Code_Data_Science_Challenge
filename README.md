@@ -460,12 +460,12 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>89</td>
-    <td></td>
+    <td>2024-06-10</td>
     <td>Random Forest, Grid Search and CountVectorizer</td>
   </tr>
   <tr>
     <td>90</td>
-    <td></td>
+    <td>2024-06-10</td>
     <td>CountVectorizer and TfidVectorizer</td>
   </tr>
   <tr>
