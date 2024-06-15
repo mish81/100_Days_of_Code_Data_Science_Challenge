@@ -470,7 +470,7 @@ Starting Date : 17th May 2024
   </tr>
   <tr>
     <td>91</td>
-    <td></td>
+    <td>2024-06-15</td>
     <td>KMeans, Agglomerative Clustering and DBSCAN</td>
   </tr>
   <tr>
